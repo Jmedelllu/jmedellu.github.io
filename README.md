@@ -17,7 +17,8 @@ I am a Computer Science graduate with interests in web development, IT systems, 
 - Academic Web Project
 
 ## CV
-[Download CV](JonathanMedellu_CV.pdf)
+[Download CV][CV_Jonathan Kieron Medellu.pdf](https://github.com/user-attachments/files/26424670/CV_Jonathan.Kieron.Medellu.pdf)
+()
 
 ## Contact
 Email: jonathankieron@gmail.com  
